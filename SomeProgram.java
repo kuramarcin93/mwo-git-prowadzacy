@@ -5,7 +5,7 @@ public class SomeProgram {
 	  System.out.println("We will be Git experts, soon.");
     }
 	public void manageTheRockets1() {
-    // TODO implement
+   		System.rockets.launch(withRedButton());
 	}
 	public void manageTheSatellite() {
     // TODO implement
